@@ -1,0 +1,33 @@
+body{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+}
+.heading{
+	background-color: #004466;
+	height: 60px;
+}
+#hfont{
+	color: white;
+    font-family: cursive;
+    font-size: 28px;
+    padding-left: 500px
+}
+
+.data {
+    width: 500px;
+    border: 12px solid #004466;
+    padding: 25px;
+    margin: 25px;
+	background-color: white;
+	font-size: 17px;
+	color: #004466;
+	font-family: Arial Black;
+	text-align: center;
+	}
+.sensor{
+	margin: 20px;
+	color: #004466;
+    font-family: cursive;
+    font-size: 20px;
+}	
